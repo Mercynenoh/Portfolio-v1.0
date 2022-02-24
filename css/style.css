@@ -25,6 +25,9 @@
     margin-right: 30px;
     color: rgb(0, 0, 255);
 }
-.upper {
-    
+.intro {
+    margin-top: 50px;
+}
+.intro h1 {
+    font-size: 44px;
 }
