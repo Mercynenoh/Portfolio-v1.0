@@ -4,10 +4,13 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background: #1f2235;
+   /*  background: #9398b8; */
     font-family: 'Poppins';
 }
+.upper {
+    background-color: #1f2235;
 
+}
 .hide {
     display: none;
 
