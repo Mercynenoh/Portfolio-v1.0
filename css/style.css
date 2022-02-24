@@ -4,20 +4,25 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-   /*  background: #9398b8; */
+    /* background: #21243a; */
     font-family: 'Poppins';
 }
 .upper {
+    
+    height: 100vh;
+    width: 100%;
     background-color: #1f2235;
-
+}
+.upper2 {
+    background-color: #1f2235;
 }
 .hide {
     display: none;
 
 }
-.bgm {
+/* .bgm {
     background: #1f2235;
-}
+} */
 .sirgama {
     height: 70px;
     width: auto;
@@ -48,9 +53,10 @@ a.tite {
     height: auto;
     width: auto;
 }
-.abouts {
-    background: #ffffff !important;
-}
+
 h2 {
     color: white;
+}
+.container {
+    background-color: rgb(20, 7, 49);
 }
