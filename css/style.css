@@ -2,32 +2,35 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+   /*  background: #1f2235; */
 }
 
 .hide {
     display: none;
 
 }
-.mainnav {
-    height: 20vh;
+.bgm {
+    background: #1f2235;
 }
 .sirgama {
-    height: 80px;
+    height: 70px;
     width: auto;
 }
-.nav-link {
-    color: rgb(238, 238, 241);
-    font-weight: bold;
-    
-    
+a.tite {
+    color: rgb(255, 255, 255);
+    font-weight: bolder;
 }
+
+
 .listitemssp li a {
     margin-right: 30px;
-    color: rgb(0, 0, 255);
+    color: rgb(255, 255, 255);
 }
-.intro {
+/* .intro {
     margin-top: 50px;
 }
+*/
 .intro h1 {
     font-size: 44px;
+    margin-top: 40px;
 }
