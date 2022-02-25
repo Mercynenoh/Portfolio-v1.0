@@ -69,7 +69,12 @@ h2 {
     max-width: 15rem;
 }
 .below  {
-    height: 100vh;
+    height: auto;
     width: 100%;
     background: #1f2235;
+}
+.prt {
+    color: black;
+    font-weight: bold;
+
 }
