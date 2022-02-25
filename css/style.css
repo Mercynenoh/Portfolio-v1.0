@@ -17,7 +17,7 @@
     background-color: #1f2235;
 }
 .middle {
-    height: 80vh;
+    height: 120vh;
     width: 100%;
     background: #fdfff4;
     color: black;
@@ -67,4 +67,9 @@ h2 {
 }
 .cardi {
     max-width: 15rem;
+}
+.below  {
+    height: 100vh;
+    width: 100%;
+    background: #1f2235;
 }
