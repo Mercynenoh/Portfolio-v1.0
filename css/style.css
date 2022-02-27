@@ -70,3 +70,7 @@ h2 {
     font-weight: bold;
 
 }
+.card {
+    border-radius: 10px;
+    margin: 10px;
+}
