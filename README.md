@@ -1,5 +1,5 @@
 # PERSONAL PORTFOLIO
-<img  src="./images/portfoliocover.png">
+<img  src="./images/coversert.png">
 
  
 
@@ -21,6 +21,11 @@
 ## Installation
 <p>If you want to clone this repository to your local machine, use the following command: </p>
 <code> git clone https://github.com/sirgama/Portfolio-v1.0.git</code>
+The command <code>git clone<code> is dependent on git. 
+To install git in your pc, run:
+<code>sudo apt update && sudo apt upgrade
+<code>sudo apt install git<code>
+
 
 
 
