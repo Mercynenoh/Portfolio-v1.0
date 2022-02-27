@@ -56,4 +56,4 @@ Copyright (c) [2022] [Gamaliel Sirengo]. All Rights Reserved.
 
 Gamaliel Sirengo 
 https://github.com/sirgama
-<a class="nav-link tite" href="https://www.buymeacoffee.com/sirgamaliel"> <img class="img-fluid" src="./images/bmc-button.png" height="auto" width="200px" alt="sirgamaliel" ></a>
+<br><a class="nav-link tite" href="https://www.buymeacoffee.com/sirgamaliel"> <img class="img-fluid" src="./images/bmc-button.png" height="auto" width="200px" alt="sirgamaliel" ></a>
