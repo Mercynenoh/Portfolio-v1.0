@@ -15,7 +15,7 @@
     background-color: #1f2235;
 }
 .middle {
-    height: 120vh;
+    height: 140vh;
     width: 100%;
     background: #fdfff4;
     color: black;
@@ -76,4 +76,7 @@ h2 {
 }
 .listedim {
     height: 80vh;
+}
+.card p {
+    color: black;
 }
