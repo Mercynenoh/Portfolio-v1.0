@@ -73,6 +73,10 @@ h2 {
 .card {
     border-radius: 10px;
     margin: 10px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px;
+}
+.card:hover {
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
 }
 .listedim {
     height: 80vh;
@@ -83,7 +87,7 @@ h2 {
 .bager p, h1, h2, h3 {
     color: black;
 }
-.burger {
-   /*  height: auto;
-    width: 50vh; */
+.burger, .irance, .qtest {
+   border-radius: 30px;
+   box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px;
 }
