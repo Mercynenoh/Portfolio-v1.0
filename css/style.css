@@ -15,7 +15,7 @@
     background-color: #1f2235;
 }
 .middle {
-    height: 140vh;
+    height: 120vh;
     width: 100%;
     background: #fdfff4;
     color: black;
@@ -102,3 +102,13 @@ h2 {
     color: #cd07b2;
     font-weight: bold;
 }
+
+
+@media only screen and (max-width: 690px) {
+    .middle {
+        height: 190vh;
+        width: auto;
+        background: #fdfff4;
+        color: black;
+    }
+    }
