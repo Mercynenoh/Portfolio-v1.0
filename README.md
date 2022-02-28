@@ -1,5 +1,5 @@
 # PERSONAL PORTFOLIO
-<img  src="./images/coversert.png">
+<img  src="./images/coverportf.png">
 
  
 
