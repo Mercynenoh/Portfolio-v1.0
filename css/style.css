@@ -95,3 +95,10 @@ h2 {
     background: #1f2235;
     margin-top: 20px;
 }
+.intro h1, h3, p, h2 {
+    color: white;
+}
+.intro h1 {
+    color: #cd07b2;
+    font-weight: bold;
+}

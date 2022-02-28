@@ -6,8 +6,6 @@
 
 ## Table of Contents
 
-- [PERSONAL PORTFOLIO](#personal-portfolio)
-  - [Table of Contents](#table-of-contents)
   - [Description](#description)
   - [Installation](#installation)
     - [SITE LINK - GH-PAGES](#site-link---gh-pages)
@@ -56,4 +54,4 @@ Copyright (c) [2022] [Gamaliel Sirengo]. All Rights Reserved.
 
 Gamaliel Sirengo 
 https://github.com/sirgama
-<br><a class="nav-link tite" href="https://www.buymeacoffee.com/sirgamaliel"> <img class="img-fluid" src="./images/bmc-button.png" height="auto" width="200px" alt="sirgamaliel" ></a>
+<br><br><br><a class="nav-link tite" href="https://www.buymeacoffee.com/sirgamaliel"> <img class="img-fluid" src="./images/bmc-button.png" height="auto" width="200px" alt="sirgamaliel" ></a>
