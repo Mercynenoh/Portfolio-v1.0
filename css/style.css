@@ -80,3 +80,10 @@ h2 {
 .card p {
     color: black;
 }
+.bager p, h1, h2, h3 {
+    color: black;
+}
+.burger {
+   /*  height: auto;
+    width: 50vh; */
+}
